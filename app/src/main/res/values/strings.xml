@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Edu Math</string>
+    <string name="losowe">Losowe ???</string>
+    <string name="liczby">Liczby wymierne</string>
+    <string name="easy">Łatwy</string>
+    <string name="medium">Średni</string>
+    <string name="hard">Trudny</string>
+
+</resources>
